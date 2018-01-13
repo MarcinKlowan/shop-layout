@@ -1,0 +1,41 @@
+
+
+.list-group-item {
+    font-size: 12px;
+    color: rgb(56, 100, 167);
+}
+
+.nav-link.link-white {
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+.nav-link {
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+.card-footer {
+     text-align: center;
+}
+
+a.star {
+    text-decoration: none;
+    
+}
+
+.star1, a.star1:hover, .star.klik {
+    color: gold;
+   
+}
+.card-footer.red .klik {
+    color: red;
+}
+
+.card-footer.green .klik {
+    color: green;
+}
+
+.card-footer.grey .klik {
+    color: grey;
+}
